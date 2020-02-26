@@ -1,36 +1,26 @@
-# Movie fight web app with UI 
+# _Movie fight web app with UI _
 
-Vanilla JS app includes async/await api calls, autocomplete search bar, and basic css.
-
-## Getting Started
-```
-Download all included files or clone directory. Open project in live server.
-```
-### Prerequisites
-```
-None
-```
-
-## Running the tests
-
-No tests currently, will add in future version.
-
-## Built With
-
-* Vanilla JS
-
-## Versioning
-
-1.0.0
-
-## Authors
-
-* **Luke Schlessinger** - *Based on Udemy Course* - [Udemy Modern JS Bootcamp 2020](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17007316#overview)
+#### _Vanilla JS app includes async/await api calls, autocomplete search bar, and basic css._ v1.0.0
 
 
+#### 12/1/19 - By * **Luke Schlessinger** - *Based on Udemy Course* - [Udemy Modern JS Bootcamp 2020](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17007316#overview)
 
-## License
+## Setup/Installation Requirements
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* Download all included files or clone directory. Open project in live server.
 
+## Known Bugs
 
+_None known at the moment._
+
+## Support and contact details
+
+_Please open an issue if you find a bug, thanks!_
+
+## Technologies Used
+
+_Vanilla JS._
+
+### License
+
+*This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details_**
