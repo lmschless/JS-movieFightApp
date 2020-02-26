@@ -1,9 +1,9 @@
 # _Movie fight web app with UI_
 
-#### _Vanilla JS app includes async/await api calls, autocomplete search bar, and basic css._ v1.0.0
+#### _Vanilla JS app includes async/await api calls, autocomplete search bar, and basic css._ 
 
 
-#### 12/1/19 - Author: **Luke Schlessinger** - 
+#### v 1.0.0 12/1/19 - Author: **Luke Schlessinger**
 
 ##### *Based on Udemy Course* - [Udemy Modern JS Bootcamp 2020](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17007316#overview)
 
