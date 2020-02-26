@@ -3,7 +3,9 @@
 #### _Vanilla JS app includes async/await api calls, autocomplete search bar, and basic css._ v1.0.0
 
 
-#### 12/1/19 - Author: **Luke Schlessinger** - *Based on Udemy Course* - [Udemy Modern JS Bootcamp 2020](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17007316#overview)
+#### 12/1/19 - Author: **Luke Schlessinger** - 
+
+##### *Based on Udemy Course* - [Udemy Modern JS Bootcamp 2020](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17007316#overview)
 
 ## Setup/Installation Requirements
 
